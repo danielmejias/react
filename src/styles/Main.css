@@ -1,0 +1,35 @@
+.button {
+  border-radius: 8px;
+  font-size: 20px;
+  background-color: rgb(168, 19, 168);
+  color: white;
+  margin-left: 70px;
+  margin-top: 100px;
+}
+
+.light-mode {
+  width: 80%;
+  height: 100%;
+  margin-top: 50px;
+  margin-left: 150px;
+  background-color: rgba(13, 1, 13, 0);
+}
+.dark-mode {
+  width: 80%;
+  height: 100%;
+  margin-top: 50px;
+  margin-left: 150px;
+  background-color: rgb(0, 0, 0);
+}
+.dark-mode-text {
+  color: rgb(208, 124, 229);
+  text-align: left;
+  padding: 0px 0px 50px 0;
+}
+.light-mode-text {
+  color: rgb(3, 3, 3);
+}
+.grid {
+  display: "inline-grid";
+  gap: 1;
+}
